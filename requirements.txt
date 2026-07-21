@@ -8,7 +8,7 @@ solders==0.18.1
 psycopg2-binary
 ethereum
 py-solc-x==1.1.1
-hvac==1.1.0
+hvac==1.2.1
 requests
 base58
 pysha3
